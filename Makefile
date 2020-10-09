@@ -36,9 +36,9 @@ test:
 
 # Cible pour créer son rendu de tp 
 zip:
-	moi=$$(whoami) ; zip -r $${moi}_renduTP1.zip *
+	moi=$$(whoami) ; zip -r $${moi}_renduTP2.zip *
 
 
 # Cible pour vérifier le contenu de son rendu de tp 
 zipVerify:
-	moi=$$(whoami) ; unzip -l $${moi}_renduTP1.zip
+	moi=$$(whoami) ; unzip -l $${moi}_renduTP2.zip
