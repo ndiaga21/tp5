@@ -5,9 +5,9 @@ MAINCLASS=Main
 # Renommez si nécessaire
 INSTALLDIR=../out/production/TP2
 
-MAINDIR=$(dir $(subst .,/,$(MAIN)))
+MAINDIR=$(dir $(subst .,/,$(MAINCLASS)))
 
-compile: $(subst .,/,$(MAIN)).class
+compile: $(subst .,/,$(MAINCLASS)).class
 
 %.class: 
 	javac -g  $*.java
