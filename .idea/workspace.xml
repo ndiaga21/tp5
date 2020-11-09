@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="901c8092-82a9-4262-a72a-5a440827dc4f" name="Default Changelist" comment="Commited project">
-      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Levenshtein.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levenshtein.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trigram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trigram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602254857584</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commited project">
+      <created>1604941638134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604941638134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,22 +166,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="580" y="297" width="277" height="207" key="Github.ShareDialog/72.27.1294.741@72.27.1294.741" timestamp="1604922245900" />
-    <state width="1248" height="123" key="GridCell.Tab.0.bottom" timestamp="1604928682053">
+    <state width="1248" height="123" key="GridCell.Tab.0.bottom" timestamp="1604941687239">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="123" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604928682053" />
-    <state width="1248" height="123" key="GridCell.Tab.0.center" timestamp="1604928682052">
+    <state width="1248" height="123" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604941687239" />
+    <state width="1248" height="123" key="GridCell.Tab.0.center" timestamp="1604941687238">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="123" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604928682052" />
-    <state width="1248" height="123" key="GridCell.Tab.0.left" timestamp="1604928682052">
+    <state width="1248" height="123" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604941687238" />
+    <state width="1248" height="123" key="GridCell.Tab.0.left" timestamp="1604941687237">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="123" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604928682052" />
-    <state width="1248" height="123" key="GridCell.Tab.0.right" timestamp="1604928682053">
+    <state width="1248" height="123" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604941687237" />
+    <state width="1248" height="123" key="GridCell.Tab.0.right" timestamp="1604941687238">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="123" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604928682053" />
+    <state width="1248" height="123" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604941687238" />
     <state x="128" y="23" key="SettingsEditor" timestamp="1602255885997">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
